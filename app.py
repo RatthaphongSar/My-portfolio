@@ -80,7 +80,7 @@ portfolio = {
         {
             "position": "Trainee Software support Engineer",
             "unit": "IT System Store Service Unit",
-            "company": "qosoft (thailand) co. ltd",
+            "company": "Gosoft (thailand) co. ltd",
             "date_from": "Oct 2024",
             "date_to": "Present",
             "responsibilities": [
